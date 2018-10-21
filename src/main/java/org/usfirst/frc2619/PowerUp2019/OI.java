@@ -9,9 +9,9 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2619.PowerUp2018;
+package org.usfirst.frc2619.PowerUp2019;
 
-import org.usfirst.frc2619.PowerUp2018.commands.*;
+import org.usfirst.frc2619.PowerUp2019.commands.*;
 
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.buttons.JoystickButton;

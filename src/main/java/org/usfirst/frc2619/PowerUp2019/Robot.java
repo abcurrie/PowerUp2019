@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2619.PowerUp2018;
+package org.usfirst.frc2619.PowerUp2019;
 
 import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.TimedRobot;
@@ -18,8 +18,8 @@ import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import org.usfirst.frc2619.PowerUp2018.commands.*;
-import org.usfirst.frc2619.PowerUp2018.subsystems.*;
+import org.usfirst.frc2619.PowerUp2019.commands.*;
+import org.usfirst.frc2619.PowerUp2019.subsystems.*;
 
 /**
  * The VM is configured to automatically run this class, and to call the

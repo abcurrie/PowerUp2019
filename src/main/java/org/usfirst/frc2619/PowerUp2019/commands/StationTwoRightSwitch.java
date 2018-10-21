@@ -9,14 +9,14 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2619.PowerUp2018.commands;
+package org.usfirst.frc2619.PowerUp2019.commands;
 
 import edu.wpi.first.wpilibj.command.CommandGroup;
 
-import org.usfirst.frc2619.PowerUp2018.commands.DriveToCurrent;
-import org.usfirst.frc2619.PowerUp2018.commands.DriveXFeetMotionMagic;
-import org.usfirst.frc2619.PowerUp2018.commands.ShiftLow;
-import org.usfirst.frc2619.PowerUp2018.subsystems.*;
+import org.usfirst.frc2619.PowerUp2019.commands.DriveToCurrent;
+import org.usfirst.frc2619.PowerUp2019.commands.DriveXFeetMotionMagic;
+import org.usfirst.frc2619.PowerUp2019.commands.ShiftLow;
+import org.usfirst.frc2619.PowerUp2019.subsystems.*;
 
 /**
  *

@@ -9,11 +9,11 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2619.PowerUp2018.commands;
+package org.usfirst.frc2619.PowerUp2019.commands;
 import edu.wpi.first.wpilibj.command.Command;
 
-import org.usfirst.frc2619.PowerUp2018.MathUtil;
-import org.usfirst.frc2619.PowerUp2018.Robot;
+import org.usfirst.frc2619.PowerUp2019.MathUtil;
+import org.usfirst.frc2619.PowerUp2019.Robot;
 
 /**
  *

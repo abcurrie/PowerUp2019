@@ -9,11 +9,11 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc2619.PowerUp2018.subsystems;
+package org.usfirst.frc2619.PowerUp2019.subsystems;
 
-import org.usfirst.frc2619.PowerUp2018.Robot;
-import org.usfirst.frc2619.PowerUp2018.RobotMap;
-import org.usfirst.frc2619.PowerUp2018.commands.*;
+import org.usfirst.frc2619.PowerUp2019.Robot;
+import org.usfirst.frc2619.PowerUp2019.RobotMap;
+import org.usfirst.frc2619.PowerUp2019.commands.*;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
